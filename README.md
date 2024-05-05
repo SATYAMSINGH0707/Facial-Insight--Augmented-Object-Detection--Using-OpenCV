@@ -1,0 +1,2 @@
+# Facial Insight: Augmented Object Detection  Using OpenCV
+  This Python script integrates computer vision for skin condition assessment with PDF report generation, providing personalized skincare prescriptions. It uses OpenCV for face detection, analyzes skin conditions, and exports reports using ReportLab. This system offers a convenient and automated approach to skincare analysis and prescription.
