@@ -47,7 +47,6 @@ Each frame from the webcam is processed in real-time, assessing the skin conditi
 
 
 
-
 To run this project, you'll need to install the following libraries:
 
 OpenCV (cv2): This library is used for image and video processing, including face detection. You can install it via pip:
