@@ -43,3 +43,4 @@ Displays the annotated frame.
 Release Resources:
 Releases the webcam and closes all OpenCV windows.
 Each frame from the webcam is processed in real-time, assessing the skin condition of detected faces and providing personalized skin care recommendations, while also displaying the annotated frame for visualization.
+![Screenshot (1560)](https://github.com/SATYAMSINGH0707/Facial-Insight--Augmented-Object-Detection--Using-OpenCV/assets/97894680/78d4cd92-3ff3-4259-9b7e-1b84e8bf2613)
