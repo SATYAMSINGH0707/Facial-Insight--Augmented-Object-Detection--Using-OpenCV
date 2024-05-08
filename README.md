@@ -59,6 +59,7 @@ ReportLab: ReportLab is a library used for creating PDF documents programmatical
 Copy code
 pip install reportlab
 Once you have these libraries installed, you should be able to run the project successfully. If you encounter any issues, ensure that your Python environment is properly set up and that you have the necessary permissions to install packages.
+![image](https://github.com/SATYAMSINGH0707/Facial-Insight--Augmented-Object-Detection--Using-OpenCV/assets/97894680/b8a312b2-9ec5-4a82-8e54-9a6affc01ddc)
 
 
 
